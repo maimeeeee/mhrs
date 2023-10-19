@@ -1,0 +1,24 @@
+{
+  "name": "mhrs",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.43.7",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-unicorn": "^1.1.1"
+  },
+  "devDependencies": {
+    "happy-css-modules": "^2.1.2",
+    "prettier": "^3.0.3",
+    "stylelint": "^15.11.0",
+    "stylelint-config-prettier": "^9.0.5",
+    "stylelint-config-recess-order": "^4.3.0",
+    "stylelint-config-standard": "^34.0.0"
+  }
+}
