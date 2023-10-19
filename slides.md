@@ -9,7 +9,7 @@ transition: slide-left
 title: MHRS
 mdc: true
 layout: image-right
-image: './public/MHRS.jpg'
+image: '/MHRS.jpg'
 fonts:
   sans: 'Roboto'
   serif: 'Roboto Slab'
